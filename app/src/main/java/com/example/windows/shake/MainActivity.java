@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private float accelVal;
     private float accelLast;
     private float shake;
+    private float asmi;
    // final Intent asmi = new Intent(this , Main2Activity.class);
 
 
